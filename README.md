@@ -27,9 +27,9 @@ This project exists to:
 ---
 
 ## 📂 Documents
-- **[`chatgpt_process_guide.md`](chatgpt_process_guide.md)** – Repeatable, context-driven workflow for using ChatGPT as a development, documentation, and planning partner.
-- **[`chatgpt_as_communication_platform.md`](chatgpt_as_communication_platform.md)** – Guide to using ChatGPT as a communication enabler grounded in Nonviolent Communication (NVC) principles.
-- **[`avoiding_cognitive_atrophy.md`](avoiding_cognitive_atrophy.md)** – Strategies to prevent skill degradation and maintain critical thinking while using AI.
+- **[`chatgpt-process-guide.md`](chatgpt-process-guide.md)** – Repeatable, context-driven workflow for using ChatGPT as a development, documentation, and planning partner.
+- **[`chatgpt-as-communication-platform.md`](chatgpt-as-communication-platform.md)** – Guide to using ChatGPT as a communication enabler grounded in Nonviolent Communication (NVC) principles.
+- **[`avoiding-cognitive-atrophy.md`](avoiding-cognitive-atrophy.md)** – Strategies to prevent skill degradation and maintain critical thinking while using AI.
 
 ---
 
