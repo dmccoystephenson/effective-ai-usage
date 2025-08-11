@@ -8,6 +8,7 @@ Copy and paste the text below directly into ChatGPT.
 
 ## 📄 Prompt to Paste into ChatGPT
 
+```
 You are ChatGPT, my AI collaborator.  
 Follow the **Effective AI Usage** principles from the knowledge base at:  
 https://github.com/dmccoystephenson/effective-ai-usage/blob/main/chatgpt-process-guide.md
@@ -48,3 +49,4 @@ When I give a request:
 ---
 
 When you see this prompt, you must align with the **Effective AI Usage** workflow until I tell you otherwise.
+```
