@@ -13,6 +13,7 @@ This project defines a **sustainable usage framework** that:
 - Produces **consistent, high-quality results** across technical and creative tasks.
 - Prevents **over-reliance** by encouraging active human engagement.
 - Embeds **ethical communication principles** into AI-assisted interactions.
+- Emphasizes **human review and thoughtful reflection** as essential to every AI interaction.
 - Evolves through **real-world use and continuous refinement**.
 
 By following the methods in this repository, AI becomes a **scalable assistant** — helping you work faster and smarter while keeping your skills sharp and your voice authentic.
@@ -38,7 +39,8 @@ This repository exists to:
 1. **Read the Guides** – Start with `chatgpt-process-guide.md` to learn the foundational workflow.  
 2. **Apply in Real Work** – Use the process and communication guides in your development, writing, and planning tasks.  
 3. **Stay Sharp** – Follow `avoiding-cognitive-atrophy.md` to keep your skills active.  
-4. **Iterate & Improve** – Adapt the guides to your own style and contribute refinements back to the project.  
+4. **Review & Reflect** – Always critically review AI outputs, ask clarifying questions, and pause to reflect on what you're learning.
+5. **Iterate & Improve** – Adapt the guides to your own style and contribute refinements back to the project.  
 
 ---
 

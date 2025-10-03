@@ -11,6 +11,7 @@ It builds on proven patterns and aligns with the **Effective AI Usage** philosop
 - AI as a **thinking partner**, not a replacement.
 - Outputs that are **high-quality and reusable**.
 - Processes that prevent **over-reliance and skill erosion**.
+- **Human review and reflection** as essential components of every AI interaction.
 
 ---
 
@@ -78,7 +79,12 @@ Keep documents **versioned** to track how decisions evolve.
 - Break down complex technical concepts.
 - Suggest testing and validation strategies.
 
-**Important:** Always **review, adapt, and test** generated code before committing.
+**Critical:** Always **review, adapt, and test** generated code before committing.  
+**Reflect:** Ask yourself:
+- Does this code handle edge cases?
+- Are there security implications I need to consider?
+- Does this align with my project's architecture and coding standards?
+- What could go wrong if I use this as-is?
 
 ---
 
@@ -98,6 +104,13 @@ Keep documents **versioned** to track how decisions evolve.
 - Use past outputs as a **style reference**.
 - Archive outdated drafts but keep them accessible.
 
+**Human Review Checkpoint:**  
+Before finalizing any AI-generated output:
+- **Review** – Read through critically, don't just copy-paste.
+- **Reflect** – Does this truly meet your needs? What's missing?
+- **Verify** – Check facts, test code, validate assumptions.
+- **Adapt** – Make it your own by adding context-specific details.
+
 ---
 
 ## 10. **Patterns That Work Best**
@@ -106,6 +119,8 @@ Keep documents **versioned** to track how decisions evolve.
 - **Atomic tasks** – Small, self-contained deliverables.
 - **Consistent language** – Avoid tone mismatches.
 - **Memory-aware sequencing** – Build on prior decisions, avoid rework.
+- **Active clarification** – Ask follow-up questions when outputs seem incomplete or unclear.
+- **Reflection-driven review** – Always pause to consider: "What am I learning from this?" and "How can I verify this is correct?"
 
 ---
 

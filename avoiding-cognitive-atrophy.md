@@ -49,6 +49,8 @@ Attempt the task independently before consulting AI. Use AI to:
 - Ask *why* and *how*, not just *what*.
 - Request explanations in multiple formats (diagrams, analogies, examples).
 - Have AI quiz you on topics you’ve learned.
+- **Pause to reflect** on AI explanations before moving forward.
+- Ask yourself: "Can I explain this concept in my own words now?"
 
 ### 4.3. **Limit Passive Consumption**
 - Summarize AI outputs in your own words.
@@ -83,6 +85,12 @@ Attempt the task independently before consulting AI. Use AI to:
 ## 6. Summary
 AI is a **powerful amplifier**, but skills atrophy when we stop exercising them.  
 By keeping a **human-first, AI-second** mindset — practicing independently, challenging outputs, and maintaining personal knowledge systems — you can enjoy AI’s benefits without sacrificing your mental edge.
+
+**Key Reflection Points:**
+- Always **review and verify** AI outputs before accepting them.
+- **Pause to reflect** on what you're learning from each interaction.
+- **Ask clarifying questions** when something seems unclear or incomplete.
+- Make AI interaction a **learning opportunity**, not just a shortcut.
 
 ---
 

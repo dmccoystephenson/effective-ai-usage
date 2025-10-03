@@ -82,6 +82,12 @@ ChatGPT reframes using NVC:
 - Risk of over-reliance — users might avoid direct practice of NVC skills.
 - Potential bias in phrasing if model training data leans toward certain cultural norms.
 
+**Critical Reminder:**  
+Always **review and reflect** on AI-generated communication before sending it. Ask yourself:
+- Does this truly reflect my feelings and needs?
+- Is this my authentic voice?
+- Should I adapt this phrasing to better fit my situation?
+
 ---
 
 ## 7. Possible Technical Implementation
